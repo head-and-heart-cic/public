@@ -1,6 +1,6 @@
 # Standing Orders for Head and Heart CIC (H\&H)
 
-**Date:** 15/05/2026
+**Date:** 20/05/2026
 
 ## Governance Processes
 
@@ -8,9 +8,13 @@ The current Standing Orders shall be published publicly on the H\&H GitHub repos
 
 Any amendments to the Standing Orders will be documented on the H\&H GitHub repository, with a clear explanation of the reasons for the change.
 
-The definitive version of all governance documents will be available at https://github.com/head-and-heart-cic/public/tree/main/governance
+The definitive version of all public governance documents will be available at https://github.com/head-and-heart-cic/public/tree/main/governance
 
-For convenience, a copy of the current Standing Orders will be maintained on the H\&H website at https://headandheart.info/standing-orders
+The definitive version of all internal governance documents will be maintained securely at https://github.com/head-and-heart-cic/internal-governance
+
+Third parties with a legitimate reason to review the governance of Head and Heart CIC may request time‑limited, read‑only access to https://github.com/head-and-heart-cic/internal-governance
+
+For convenience, a non‑authoritative copy of the current Standing Orders will be maintained on the H\&H website at https://headandheart.info/standing-orders
 
 ## Mission-Focused Activity Rules
 
