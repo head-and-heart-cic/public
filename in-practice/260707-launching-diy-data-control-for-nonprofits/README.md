@@ -25,5 +25,5 @@ patrick@headandheart.info<br>
 www.headandheart.info
 
 This work is released under the MIT Licence and is available at<br>
-https://github.com/head-and-heart-cic/public/blob/main/in-practice/2600707-launching-diy-data-control-for-nonprofits/README.md
+https://github.com/head-and-heart-cic/public/blob/main/in-practice/260707-launching-diy-data-control-for-nonprofits/README.md
 
