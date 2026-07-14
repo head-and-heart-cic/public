@@ -4,6 +4,7 @@
 ## Introduction
 
 Most smaller nonprofit organisations don't have dedicated data and software experts, so they find ways of using standard tools like Word, Excel and SharePoint to manage their data securely and effectively.  The big headache comes when they are answerable to an external regulator, and their work needs to be **demonstrably** secure and effective.
+
 The standard way to handle this would be to bring everything together into a central managed system like Microsoft's Dynamics 365.  But that's expensive, and setting up and maintaining such a system requires a level of technical expertise between application user and software developer.
 
 This series of articles will document my experience as I explore an alternative path to the same space between software user and software developer.  Instead of starting with a full enterprise system like Dynamics 365 and configuring it to meet the needs of the organisation, I'll start with the core of such a system (Microsoft's open-source Common Data Model for Nonprofits) and use Microsoft's no-code development tools to configure it into a central system capable of demonstrably complying with the demands of an external regulator.
