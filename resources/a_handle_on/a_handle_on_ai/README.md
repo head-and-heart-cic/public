@@ -5,7 +5,7 @@
 
 When it comes to using and governing AI, thinking in terms of “hunch dispensers” provides a much clearer vantage point than “artificial intelligence”. Generative AI dispenses hunches. Agentic AI takes things a step further by embedding one or more generative AI hunch dispensers into an automated workflow that acts on those hunches.
 
-In abstract terms, generative AI takes a pattern (the explicit prompt) and extends it (the response) in a way that resembles a much larger pattern (training material, plus grounding and contextual material).  In practical terms, generative AI creates abstract patterns that usefully resemble actionable hunches. Put another way, we can prefix any generative AI output with “I don’t actually understand your request, but my hunch is that you are looking for an answer that looks something like…”  
+In abstract terms, generative AI takes a pattern (the explicit prompt) and extends it (the response) in a way that resembles a much larger pattern (training material, plus grounding and contextual material).  This resembles the way humans can take a step back and form a hunch based on their perception of the world they live in, rather than by following a line of reasoning. In practical terms, generative AI creates abstract patterns that usefully resemble actionable hunches. Put another way, we can prefix any generative AI output with “I don’t actually understand your request, but my hunch is that you are looking for an answer that looks something like…”  
 
 ## The value of hunches
 
