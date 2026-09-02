@@ -73,7 +73,7 @@ The element of choice is essential. If rejecting the hunch is not a viable optio
 
 ## Governing AI
 
-I hope the idea that generative AI and agentic AI are powered by hunches will be useful as you grapple with this increasingly prevalent technology.  Before I finish, I would like to look at what treating generative AI as hunch dispensers helps clarify about Microsoft’s six principles for responsible AI use.
+I hope the idea that generative AI and agentic AI are powered by hunches will be useful as you grapple with this increasingly prevalent technology.  Before I finish, I would like to look at what treating generative AI as hunch dispensers helps clarify about Microsoft’s six principles for responsible AI use [2].
 
 ### Fairness
 
