@@ -1,4 +1,4 @@
-# A handle on AI
+# A handle on AI: Hunch dispensers
 **Date:** 02/09/2026
 
 ## AI as hunch dispensers
